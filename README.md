@@ -14,5 +14,6 @@ Aplikacija vsebuje naslednje elemente uporabniškega vmesnika:
 Vsa besedila v aplikaciji so shranjena v `strings.xml`.
 
 ## Posnetki aplikacije
-
-![Začetni pogled](screenshot_initial.png) ![Prikaz štetja](screenshot_counted.png) ![Ležeči pogled](screenshot_landscape.png) ![Tablični pogled](screenshot_tablet.png)
+| Pokočno | Ležeče | Tablica |
+|---|---|---|
+|![Prikaz štetja](screenshot_counted.png)|![Ležeči pogled](screenshot_landscape.png)|![Tablični pogled](screenshot_tablet.png)|
